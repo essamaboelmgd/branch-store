@@ -1,0 +1,14 @@
+# Dependencies and generated output
+**/node_modules/
+**/dist/
+*.tsbuildinfo
+
+# Local environment and operating system files
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Local design tooling state
+.impeccable/build/
+.impeccable/hook.cache.json
